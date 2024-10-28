@@ -18,8 +18,3 @@ I'm a **security engineer** focused on building tools for **Windows** and expand
 - **Platforms:** Windows, macOS  
 - **Focus Areas:** Red Teaming, Offensive Security
 
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshannnnn&count_private=true&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshannnnn&layout=compact&theme=default)
