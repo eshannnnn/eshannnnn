@@ -1,6 +1,6 @@
 ## Mohammad Eshan | NYC | Senior Associate (Security) @ [ BlackRock](https://blackrock.com)  
 
-I'm a **security engineer** focused on building tools for **Windows** and expanding into **Mac red teaming**. I work primarily with **Go**, **C/C++**, and **Python**.  
+I'm a **security engineer** focused on building tools for **Windows** and expanding into **macOS red teaming**. I work primarily with **Go**, **C/C++**, and **Python**.  
 
 ---
 
