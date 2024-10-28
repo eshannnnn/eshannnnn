@@ -1,16 +1,25 @@
-## Hi there 👋
+## Mohammad Eshan | NYC | Senior Associate (Security) @ [ BlackRock](https://blackrock.com)  
 
-<!--
-**eshannnnn/eshannnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **security engineer** focused on building tools for **Windows** and expanding into **Mac red teaming**. I work primarily with **Go**, **C/C++**, and **Python**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me  
+- 🐦 [Twitter](https://x.com/eshannnn)  
+- 🌐 [Website](https://eshan.io)  
+- 📩 [Email](mailto:hi@eshan.io)  
+- 👔 [LinkedIn](https://linkedin.com/in/moheshan)  
+- 🐙 [GitHub](https://github.com/eshannnnn)  
+
+---
+
+### 💻 Technologies  
+- **Languages:** Go, C/C++, Python, JavaScript, TypeScript  
+- **Platforms:** Windows, macOS  
+- **Focus Areas:** Red Teaming, Offensive Security
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshannnnn&count_private=true&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshannnnn&layout=compact&theme=default)
