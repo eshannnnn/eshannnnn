@@ -9,7 +9,6 @@ I'm a **security engineer** focused on building tools for **Windows** and expand
 - 🌐 [Website](https://eshan.io)  
 - 📩 [Email](mailto:hi@eshan.io)  
 - 👔 [LinkedIn](https://linkedin.com/in/moheshan)  
-- 🐙 [GitHub](https://github.com/eshannnnn)  
 
 ---
 
