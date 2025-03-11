@@ -15,5 +15,5 @@ I'm a **security engineer** focused on building tools for **Windows** and expand
 ### 💻 Technologies  
 - **Languages:** Go, C/C++, Python, JavaScript, TypeScript  
 - **Platforms:** Windows, macOS  
-- **Focus Areas:** Red Teaming, Offensive Security
+- **Focus Areas:** Red Teaming, Offensive Security, Security Engineering, Architecture, and Detection Engineering
 
